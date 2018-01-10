@@ -1,5 +1,5 @@
 var playlist  = new Object({Haha: "SSOA"})
-function updatePlaylist(playlist, artistName, songTItle)
+function updatePlaylist(playlist, artistName, songTitle)
 {
   playlist.assign(playlist, {[artistName]: songTitle})
   return playlist
