@@ -1,1 +1,1 @@
-var plalist  = {Haha: "SSOA"};
+var plalist  = new Object({Haha: "SSOA"})
