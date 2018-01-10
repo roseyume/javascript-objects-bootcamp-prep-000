@@ -1,10 +1,10 @@
 var playlist  = new Object({Haha: "SSOA"})
 function updatePlaylist(playlist, artistName, songTItle)
 {
-  playlist.assign(playlist, {[artistNAme]: song})
+  playlist.assign(playlist, {[artistName]: songTitle})
   return playlist
 }
-function removeFromPlaylist(playlist,artist)
+function removeFromPlaylist(playlist,artistName)
 {
-  delete playlist.artist;
+  delete playlist.artistName;
 }
