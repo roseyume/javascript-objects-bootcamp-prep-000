@@ -1,1 +1,1 @@
-var plalist  = {Haha: "SSOA"}
+var plalist  = {Haha: "SSOA"};
