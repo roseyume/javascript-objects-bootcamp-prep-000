@@ -1,1 +1,1 @@
-var plalist  = new Object({Haha: "SSOA"})
+var playlist  = new Object({Haha: "SSOA"})
